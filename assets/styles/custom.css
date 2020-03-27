@@ -1,0 +1,124 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    border: 2px solid black;
+    margin: 20px;
+    background-color: teal;
+}
+header {
+    padding: 10px;
+    padding-top: 20px;
+}
+h1 {
+    color: red;
+    padding: 10px;
+    font-size: 40px;
+    width: 70%;
+}
+.Expoville {
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 70%;
+    border-bottom:4px solid black;
+}
+.ImagemExpoville {
+    width: 25%;
+    float: left;
+    padding-right: 20px;
+}
+h2 {
+    font-size: 30px;
+    text-align: left;
+}
+.TextoExpoville {
+    padding-top: 15px;
+    font-size: 20px;
+}
+.VisualizarExpoville {
+    text-align: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.VejaMais {
+    float: right;
+    font-size: 30px;
+    color: red;
+    padding-right: 60px;
+}
+
+.RuaPalmeiras {
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+.MuseuBicicleta {
+    font-size: 20px;
+}
+
+.BarcoPríncipe {
+    font-size: 20px;
+}
+
+.MuseuImigrantes {
+    font-size: 20px;
+}
+
+.MuseuSambaqui {
+    font-size: 20px;
+}
+
+.EstradaBonita {
+    font-size: 20px;
+}
+
+.SerraDonaFrancisca {
+    font-size: 20px;
+}
+
+.Mirante {
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 70%;
+    border-bottom:4px solid black;
+}
+.ImagemMirante {
+    width: 25%;
+    float: left;
+    padding-right: 20px;
+}
+h3 {
+    font-size: 30px;
+    text-align: left;
+}
+.TextoMirante {
+    padding-top: 15px;
+    font-size: 20px;
+}
+.VisualizarMirante {
+    text-align: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Zoobotânico {
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 70%;
+}
+.ImagemZoobotânico {
+    width: 25%;
+    float: left;
+    padding-right: 20px;
+}
+h4 {
+    font-size: 30px;
+    text-align: left;
+}
+.TextoZoobotânico {
+    padding-top: 15px;
+    font-size: 20px;
+}
+.VisualizarZoobotânico {
+    text-align: right;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
